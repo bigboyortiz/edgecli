@@ -1,0 +1,25 @@
+{
+  "name": "@rmfaustino/edgecli",
+  "version": "1.0.0",
+  "description": "A copy of 'edgeci' - an Apigee Edge command line utility to export/import API proxies for continuous integration",
+  "author": "rmfaustino@globe.com.ph",
+  "license": "MIT",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/globe-rmfaustino/edgecli"
+  },
+  "main": "edgecli.js",
+  "bin": {
+    "edgecli": "edgecli.js"
+  },
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "chokidar": "^1.7.0",
+    "request": "^2.81.0",
+    "rimraf": "^2.6.1",
+	"unzip-stream": "^0.3.0",
+    "unzip": "^0.1.11",
+    "zip-folder": "^1.0.0"
+  }
+}
