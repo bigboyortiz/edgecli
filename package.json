@@ -1,13 +1,13 @@
 {
-  "name": "@rmfaustino/edgecli",
+  "name": "@bigboyortiz/edgecli",
   "version": "1.0.0",
   "description": "A copy of 'edgeci' - an Apigee Edge command line utility to export/import API proxies for continuous integration",
-  "author": "rmfaustino@globe.com.ph",
+  "author": "lorenzo.milan.ortiz@gmail.com",
   "license": "MIT",
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/globe-rmfaustino/edgecli"
+    "url": "git+https://github.com/bigboyortiz/edgecli.git"
   },
   "main": "edgecli.js",
   "bin": {
@@ -18,8 +18,15 @@
     "chokidar": "^1.7.0",
     "request": "^2.81.0",
     "rimraf": "^2.6.1",
-	"unzip-stream": "^0.3.0",
+    "unzip-stream": "^0.3.0",
     "unzip": "^0.1.11",
     "zip-folder": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bigboyortiz/edgecli/issues"
+  },
+  "homepage": "https://github.com/bigboyortiz/edgecli#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
