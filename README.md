@@ -1,2 +1,3 @@
-# edgecli
-This is a forked and continued project from edgeci (https://www.npmjs.com/package/edgeci)
+# EdgeCLI
+
+This is a forked project from `@rmfaustino/edgecli` (https://github.com/globe-rmfaustino/edgecli)
