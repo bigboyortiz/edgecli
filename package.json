@@ -1,6 +1,6 @@
 {
   "name": "@bigboyortiz/edgecli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A copy of 'edgeci' - an Apigee Edge command line utility to export/import API proxies for continuous integration",
   "author": "lorenzo.milan.ortiz@gmail.com",
   "license": "MIT",
